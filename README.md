@@ -22,7 +22,7 @@ Welcome to my Github page! I am GongNa and I am studying software engineering at
 - golang
 - c++
 - python
--  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongna-au&layout=compact)" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongna-au" />
 <p>
  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=gongna-au&show_icons=true&theme=dracula&hide_border=true)" />
 <br />
