@@ -14,7 +14,7 @@ Welcome to my Github page! I am GongNa and I am studying software engineering at
 #### 🚀 Things I am currently working on: 
 - Finish my Computer Engineering Bachelor's degree  
 - Learn cloud native domain expertise
-- [My Blog)](https://github.com/FernandoRoldan93/TFG)
+- [My Study Notes](https://gongna-au.github.io/)
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
