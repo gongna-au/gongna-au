@@ -27,7 +27,7 @@ Welcome to my Github page! I am GongNa and I am studying software engineering at
 - c++
 - python
 
-#### :🔭Fun fact: 
+#### 🔭Fun fact: 
 - Like new things
 - Like to make new friends
 - Dark chocolate connoisseur
