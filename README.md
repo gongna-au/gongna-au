@@ -19,6 +19,9 @@ Welcome to my Github page! I am GongNa and I am studying software engineering at
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
+- golang
+- c++
+- python
 <p>
  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=gongna-au&show_icons=true&theme=dracula&hide_border=true)" />
 <br />
