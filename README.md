@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am GongNa and I am studying software engineering at Central China Normal University !  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/gongna-au/gongna-au/blob/main/Image2.png" width="50%" height="auto" />
 
 #### 🚀 Things I am currently working on: 
 - Finish my Computer Engineering Bachelor's degree  
@@ -22,10 +22,7 @@ Welcome to my Github page! I am GongNa and I am studying software engineering at
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
