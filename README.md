@@ -7,6 +7,7 @@
 Welcome to my Github page! I am GongNa and I am studying software engineering at Central China Normal University !  
 
 <img align="right" alt="img" src="https://github.com/gongna-au/gongna-au/blob/main/Image2.png" width="50%" height="auto" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=gongna-au&show_icons=true&theme=dracula&hide_border=true)" />
 
 #### 🚀 Things I am currently working on: 
 - Finish my Computer Engineering Bachelor's degree  
@@ -28,9 +29,6 @@ Welcome to my Github page! I am GongNa and I am studying software engineering at
 - Like to make new friends
 - Dark chocolate connoisseur
 - Love dessert
-<p>
- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=gongna-au&show_icons=true&theme=dracula&hide_border=true)" />
-<br />
-<br />
-</p>
+
+
 
