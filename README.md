@@ -30,4 +30,5 @@ Welcome to my Github page! I am GongNa and I am studying software engineering at
 <code><img width="10%" src="https://github.com/gongna-au/gongna-au/blob/main/golang-icon.svg"></code>
 <br />
 </p>
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
 
