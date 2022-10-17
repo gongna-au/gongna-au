@@ -29,5 +29,7 @@ Welcome to my Github page! I am GongNa and I am studying software engineering at
 <br />
 <code><img width="10%" src="https://github.com/gongna-au/gongna-au/blob/main/golang-icon.svg"></code>
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongna-au)](https://github.com/gongna-au/github-readme-stats)
+
 </p>
 
