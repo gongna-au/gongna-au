@@ -20,7 +20,7 @@ Welcome to my Github page! I am GongNa and I am studying software engineering at
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=gongna-au&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=gongna-au&show_icons=true&hide_border=true&theme=onedark)" />
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://github.com/gongna-au/gongna-au/blob/main/python-horizontal.svg"></code>
