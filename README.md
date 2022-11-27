@@ -23,10 +23,7 @@ Welcome to my Github page! I am GongNa and I am studying software engineering at
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
-[![Skills](https://skillicons.dev/icons?i=go,python,docker,c++,linux)](https://github.com/AndriiMaliuta)
-- golang
-- c++
-- python
+[![Skills](https://skillicons.dev/icons?i=go,python,docker,linux)](https://github.com/AndriiMaliuta)
 
 #### 🔭 Fun fact: 
 - Like new things
