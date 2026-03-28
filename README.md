@@ -2,7 +2,7 @@
 
 ### This is GongNa
 
-<img align="right" alt="img" src="./mydog.JPG" width="280" height="auto" />
+<img align="right" alt="img" src="https://github.com/gongna-au/gongna-au/blob/main/mydog.jpg" width="280" height="auto" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gongna-au)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fieelinana@gmail.com)
