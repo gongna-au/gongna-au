@@ -33,8 +33,9 @@ Welcome to my Github page! I am GongNa, a **Database Middleware Engineer** with 
 
 - Eager to embrace new experiences and technologies.
 - Enjoy making new friends and building connections.
+- A proud "pet parent" and dedicated "poop-scooper" to a fluffy Pomeranian named **Xiao Guai**. She’s the real CEO of my home office, ensuring I take enough "pet-me" breaks.
 - A dark chocolate connoisseur with a penchant for desserts.
 - Particularly fond of Basque cheesecakes and the art of mixology.
 - Love exploring the world; next stop: the Bromo Volcano in Indonesia 🌋.
 
-I believe in blending life's passions with profession. Whether it's concocting a new cocktail, experimenting with a dessert recipe, or embarking on a hiking adventure, I am all about exploring and enjoying every moment. Feel free to reach out, especially if you share similar interests or just want to chat about the latest in tech, travel, or the best recipe for a Mojito!
+I believe in blending life's passions with profession. Whether it's concocting a new cocktail, experimenting with a dessert recipe, embarking on a hiking adventure, or just navigating the fluffy chaos of life with Xiao Guai, I am all about exploring and enjoying every moment. Feel free to reach out, especially if you share similar interests or just want to chat about the latest in tech, travel, or how to handle a sassy Pomeranian!
