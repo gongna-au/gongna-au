@@ -16,7 +16,7 @@ Welcome to my Github page! I am GongNa, a **Database Middleware Engineer** with 
 - Developing **Database Middleware** & high-performance proxies (Gaea).
 - Implementing **DTS (Data Transmission Service)** & data replication solutions.
 - Exploring **Cloud-native** architectures & **Kubernetes (K8s)**.
-- A collection of my technical research and hands-on case studies.📚 [My Study Notes](https://gongna-au.github.io/)
+- 📚 [Technical Study Notes](https://gongna-au.github.io/)
 
 #### :muscle: Things I am challenging myself with
 
